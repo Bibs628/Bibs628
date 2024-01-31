@@ -1,12 +1,13 @@
-- Halli Hallo ^^
-- Ich bin der Nils aka Bibs628
-- Ich interessiere mich für Software aber auch für Politik. 
-- In diesem Zug habe ich mit ner Gruppe von Freunden eine Partei gegründet, um die Dokumente frei zu Verfügung zu stellen habe ich nun diesen Account gemacht.
-- Ihr könnt mich über Discord (bibs628) erreichen.
----------------------------------------------------------------------------
-- Hi, I’m Nils aka Bibs628
-- I’m interested in Technology, Software and also Politics, so i founded with a group of friends party. I created the account to post stuff into the public domain.
-- You can reach me via Discord (bibs628).
+**Halli Hallo ^^**
+
+Ich heiße Nils aka Bibs628.
+Ich veröffentliche hier unregelmäßig Teile von meinen Persönlichen Projekten welche über Sinnvoll zugreifbar sind.
+Die Sachen stehen under den CC BY-SA 4.0 Regularien, die infos findest du dazu hier: https://creativecommons.org/licenses/by-sa/4.0  <br>  
+In den einzelnen Projekten sollten jedoch erneut eine Readme Datei sein, **diese sollten zur Sicherheit noch mal gelesen werden.** Dort stehen entsprechend Informationen und mehr KOntext zu den Projekten. 
+
+#### *Sha'Nok*
+Sha'Nok ist eine Fantasy-Wel an dem ein Freund mit mir zusammen arbeiten. Das Orginal erstellen wir in Obsidian.md und hier werden wir diese ab und zu mal aktualisieren um unser Projekt öffentlich zur Verfügung zu stellen. 
+
 
 <!---
 Bibs628/Bibs628 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
